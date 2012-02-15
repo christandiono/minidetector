@@ -13,6 +13,7 @@ samsung
 mobile
 windows ce
 epoc
+opera mobi
 opera mini
 nitro
 j2me
