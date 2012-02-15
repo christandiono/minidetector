@@ -50,6 +50,7 @@ docomo
 vodafone/
 wap1.
 wap2.
+webos
 plucker
 480x640
 sec
